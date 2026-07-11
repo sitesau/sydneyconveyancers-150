@@ -1,0 +1,17 @@
+{
+  "wheel_id": 91,
+  "slug": "sydneyconveyancers-150",
+  "project": "property-settlement-sydney-s-150",
+  "parent_t1_ref": "sydneyconveyancers-001",
+  "node_role": "buffer",
+  "money_target": "sydneyconveyancers.net.au",
+  "primary_kw": "property settlement sydney",
+  "intended_url": "https://aumedia.neocities.org/property-settlement-sydney-s-150/index.html",
+  "links": [
+    {
+      "target_url": "https://property-settlement-sydney.pages.dev/",
+      "anchor": "property settlement sydney",
+      "rel": "follow"
+    }
+  ]
+}
